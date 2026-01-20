@@ -105,7 +105,7 @@ Outputs from the upstream pipeline are consumed here as **frozen, validated CSV 
 
 ### Installation
 
-```bash
+
 git clone https://github.com/Lalit-Hire110/UIDAI-Data-Hackathon-Final-Submission.git
 cd UIDAI-Insight-Command-Center
 python -m venv venv
