@@ -18,10 +18,13 @@ The project emphasizes **auditability, reproducibility, and policy safety**, avo
 - **Geographic Coverage:** PAN-India  
 - **Analytical Granularity:** Monthly, PIN-code level  
 - **PIN Codes Covered:** 19,879  
-- **Time Period:** January 2023 – December 2023  
-- **Records:** 238,548 monthly observations  
+- **Time Period:** January 2025 – December 2025  
+- **Records:** ~240,000 monthly PIN-code observations  
 
 All analytical findings are derived from UIDAI-provided aggregated datasets. Population data is used strictly as a **normalization layer for equity analysis** and does not exclude any PIN code from analysis.
+
+Monthly completeness is enforced analytically; missing months are explicitly handled and flagged to preserve panel integrity.
+
 
 ---
 
@@ -37,41 +40,44 @@ All analytical findings are derived from UIDAI-provided aggregated datasets. Pop
 ---
 
 ## 4. Repository Structure
+
+```text
 UIDAI-Insight-Command-Center/
-├── app/ # Streamlit application (read-only policy interface)
-│ ├── main.py # Application entry point
-│ ├── config.py # Configuration and constants
-│ ├── data_handler.py # Data loading (frozen CSVs only)
-│ ├── requirements.txt # Application dependencies
-│ ├── components/ # Reusable UI components
-│ ├── experiences/ # Decision-flow modules
-│ │ ├── framing.py
-│ │ ├── proof.py
-│ │ ├── case_file.py
-│ │ ├── decision.py
-│ │ ├── trust.py
-│ │ └── insights.py
-│ ├── pages/ # Additional Streamlit pages
-│ ├── static/ # CSS and static assets
-│ └── utils/ # Utility helpers
+├── app/                          # Streamlit application (read-only policy interface)
+│   ├── main.py                   # Application entry point
+│   ├── config.py                 # Configuration and constants
+│   ├── data_handler.py           # Data loading (frozen CSVs only)
+│   ├── requirements.txt          # Application dependencies
+│   ├── components/               # Reusable UI components
+│   ├── experiences/              # Decision-flow modules
+│   │   ├── framing.py
+│   │   ├── proof.py
+│   │   ├── case_file.py
+│   │   ├── decision.py
+│   │   ├── trust.py
+│   │   └── insights.py
+│   ├── pages/
+│   ├── static/
+│   └── utils/
 │
 ├── data/
-│ ├── UIDAI_Master_Analysis.ipynb # Canonical analytical notebook
-│ ├── UIDAI_with_population.csv # Final merged dataset (84 MB)
-│ ├── outputs/
-│ │ ├── domains/ # Domain-wise analytical outputs
-│ │ ├── validation/ # Robustness and verification outputs
-│ │ ├── figures/ # Publication-quality figures
-│ │ ├── streamlit/ # Frozen CSVs consumed by Streamlit
-│ │ └── final_decision_matrix/ # Priority scoring outputs
-│ └── scripts/
-│ ├── run_all.py
-│ ├── run_all_domains.py
-│ ├── quick_summary.py
-│ ├── policy_simulator.py
-│ └── requirements.txt
+│   ├── UIDAI_Master_Analysis.ipynb
+│   ├── UIDAI_with_population.csv
+│   ├── outputs/
+│   │   ├── domains/
+│   │   ├── validation/
+│   │   ├── figures/
+│   │   ├── streamlit/
+│   │   └── final_decision_matrix/
+│   └── scripts/
+│       ├── run_all.py
+│       ├── run_all_domains.py
+│       ├── quick_summary.py
+│       ├── policy_simulator.py
+│       └── requirements.txt
 │
 └── .gitignore
+
 
 
 ---
