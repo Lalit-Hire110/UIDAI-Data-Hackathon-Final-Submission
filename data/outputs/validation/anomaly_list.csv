@@ -1,0 +1,101 @@
+pincode,district,state,population,total_activity,activity_per_100k,district_activity_per_100k,outlier_flag,reason_code,policy_relevance_score
+176304,Chamba,Himachalpradesh,48.0,222.0,462500.0,66.57868625770548,True,Extreme high activity (>500% of district); Very small population (<500),8070.438455576527
+177108,Kangra,Himachalpradesh,96.0,256.0,266666.6666666667,63.26623959486302,True,Extreme high activity (>500% of district); Very small population (<500),4745.65565307416
+440030,Nagpur,Maharashtra,144.0,304.0,211111.1111111111,59.567502543421455,True,Extreme high activity (>500% of district); Very small population (<500),3443.7617654646097
+721125,Paschim Medinipur,Westbengal,156.0,499.0,319871.7948717949,86.07509997531294,True,Extreme high activity (>500% of district); Very small population (<500),3233.8304084131037
+580025,Dharwad,Karnataka,156.0,334.0,214102.5641025641,64.87670468678155,True,Extreme high activity (>500% of district); Very small population (<500),3230.5288331103566
+274508,Deoria,Uttar Pradesh,168.0,303.0,180357.14285714284,22.862460264204678,True,Extreme high activity (>500% of district); Very small population (<500),3043.0808988964636
+500098,Rangareddi,_Andhrapradesh,183.0,460.0,251366.12021857922,112.23969869670202,True,Extreme high activity (>500% of district); Very small population (<500),2842.2404463365533
+744101,South Andaman,Andaman And Nicobar,216.0,596.0,275925.9259259259,140.3956916072138,True,Extreme high activity (>500% of district); Very small population (<500),2485.256020523222
+176200,Kangra,Himachalpradesh,300.0,270.0,90000.0,63.26623959486302,True,Extreme high activity (>500% of district); Very small population (<500),1894.017920376365
+800008,Patna,_Bihar,324.0,334.0,103086.41975308642,30.92215777629869,True,Extreme high activity (>500% of district); Very small population (<500),1779.268603490377
+580031,Dharwad,Karnataka,360.0,313.0,86944.44444444445,64.87670468678155,True,Extreme high activity (>500% of district); Very small population (<500),1629.3731576183036
+176319,Chamba,Himachalpradesh,372.0,297.0,79838.70967741935,66.57868625770548,True,Extreme high activity (>500% of district); Very small population (<500),1585.1574810948403
+246445,Rudraprayag,Uttarakhand,144.0,1.0,694.4444444444445,58.03859299502401,True,Extreme high activity (>500% of district); Very low absolute activity (<50 records); Very small population (<500),1583.611237391113
+248179,Dehradun,Uttarakhand,473.0,301.0,63636.36363636364,45.8562790127261,True,Extreme high activity (>500% of district); Very small population (<500),1297.3321176172688
+770001,Sundergarh,Odisha,713.0,528.0,74053.29593267883,102.23985687853641,True,Extreme high activity (>500% of district),918.5703864187055
+560072,Bangalore,Karnataka,799.0,664.0,83103.87984981226,128.8578450843106,True,Extreme high activity (>500% of district),834.0688799944494
+788011,Cachar,_Assam,799.0,265.0,33166.458072590736,54.56724389421053,True,Extreme high activity (>500% of district),832.1057660103942
+176110,Hamirpur,Himachalpradesh,813.0,266.0,32718.32718327183,89.19736443537718,True,Extreme high activity (>500% of district),819.0229768651443
+629301,Kanniyakumari,Tamilnadu,828.0,462.0,55797.10144927537,98.43058612443457,True,Extreme high activity (>500% of district),808.4391588526865
+802136,Buxar,_Bihar,1041.0,251.0,24111.431316042264,27.68555129607909,True,Extreme high activity (>500% of district),664.1090239981935
+691331,Kollam,,1041.0,91.0,8741.594620557156,20.980893440751153,True,Extreme high activity (>500% of district),658.6809620133319
+723104,Puruliya,Westbengal,970.0,16.0,1649.4845360824743,69.68837562235245,True,Extreme high activity (>500% of district); Very low absolute activity (<50 records),639.1972791175216
+560078,Bengaluru,Karnataka,1183.0,702.0,59340.65934065934,124.6556597478716,True,Extreme high activity (>500% of district),596.0898412288268
+629401,Kanniyakumari,Tamilnadu,1268.0,479.0,37776.02523659306,98.43058612443457,True,Extreme high activity (>500% of district),560.9239711522656
+171224,Shimla,Himachalpradesh,1283.0,205.0,15978.17614964926,129.51974541216822,True,Extreme high activity (>500% of district),550.6819918557882
+177007,Hamirpur,Himachalpradesh,1312.0,208.0,15853.658536585366,89.19736443537718,True,Extreme high activity (>500% of district),541.578625582633
+627757,Tenkasi,Tamilnadu,1326.0,478.0,36048.26546003017,155.1294692627985,True,Extreme high activity (>500% of district),538.8223648556111
+760008,Ganjam,Odisha,1411.0,425.0,30120.481927710844,47.61618343070376,True,Extreme high activity (>500% of district),511.9984752893758
+110083,North West Delhi,Delhi,1653.0,350.0,21173.62371445856,19.385031253882,True,Extreme high activity (>500% of district),446.6468514126486
+174310,Bilaspur,Himachalpradesh,1669.0,238.0,14260.03594967046,48.23817501257395,True,Extreme high activity (>500% of district),441.25425428698946
+176053,Kangra,Himachalpradesh,1711.0,269.0,15721.800116890707,63.26623959486302,True,Extreme high activity (>500% of district),431.7937890452838
+171222,Shimla,Himachalpradesh,1755.0,173.0,9857.549857549859,129.51974541216822,True,Extreme high activity (>500% of district),417.6787746950595
+176203,Kangra,Himachalpradesh,1796.0,214.0,11915.367483296213,63.26623959486302,True,Extreme high activity (>500% of district),413.10768378459767
+176032,Kangra,Himachalpradesh,1840.0,257.0,13967.391304347826,63.26623959486302,True,Extreme high activity (>500% of district),405.16319620428027
+171006,Shimla,Himachalpradesh,1925.0,275.0,14285.714285714286,129.51974541216822,True,Extreme high activity (>500% of district),387.9207932345981
+754142,Jagatsinghapur,Odisha,1968.0,601.0,30538.61788617886,79.43039868530175,True,Extreme high activity (>500% of district),383.7898646505092
+722149,Bankura,Westbengal,2024.0,215.0,10622.529644268774,52.047746912709954,True,Extreme high activity (>500% of district),372.5764531246438
+800012,Patna,_Bihar,2055.0,317.0,15425.790754257909,30.92215777629869,True,Extreme high activity (>500% of district),369.3082592675055
+176037,Kangra,Himachalpradesh,2068.0,256.0,12379.110251450677,63.26623959486302,True,Extreme high activity (>500% of district),365.8726090490482
+176030,Kangra,Himachalpradesh,2168.0,261.0,12038.745387453873,63.26623959486302,True,Extreme high activity (>500% of district),351.129345100426
+733124,Dakshin Dinajpur,Westbengal,2281.0,663.0,29066.19903551074,83.86175225457634,True,Extreme high activity (>500% of district),337.5223433632442
+174028,Bilaspur,Himachalpradesh,2310.0,282.0,12207.792207792209,48.23817501257395,True,Extreme high activity (>500% of district),332.7952042775507
+281303,Mathura,Uttar Pradesh,2495.0,201.0,8056.112224448898,33.26996629571417,True,Extreme high activity (>500% of district),310.68435711789385
+171204,Shimla,Himachalpradesh,2567.0,200.0,7791.195948578107,129.51974541216822,True,Extreme high activity (>500% of district),299.2583128697594
+756182,Baleswar,Odisha,2652.0,475.0,17911.01055806938,91.08756705118195,True,Extreme high activity (>500% of district),295.13110700537334
+174201,Bilaspur,Himachalpradesh,2724.0,247.0,9067.54772393539,48.23817501257395,True,Extreme high activity (>500% of district),287.6804686110432
+713407,Bardhaman,Westbengal,2752.0,555.0,20167.1511627907,116.07441781282569,True,Extreme high activity (>500% of district),285.6357567070255
+689663,Pathanamthitta,,2781.0,85.0,3056.4545127651922,20.922444606513075,True,Extreme high activity (>500% of district),279.9369569575191
+600053,Tiruvallur,Tamilnadu,2880.0,727.0,25243.055555555555,84.99070225828133,True,Extreme high activity (>500% of district),275.28357973031063
+176098,Kangra,Himachalpradesh,2923.0,207.0,7081.765309613411,63.26623959486302,True,Extreme high activity (>500% of district),269.29130009069
+630003,Sivaganga,Tamilnadu,2923.0,273.0,9339.719466301745,96.89500627924343,True,Extreme high activity (>500% of district),269.2127060402447
+752035,Khorda,Odisha,3066.0,614.0,20026.092628832354,82.1726607257744,True,Extreme high activity (>500% of district),260.35588172459614
+440005,Nagpur,Maharashtra,3051.0,212.0,6948.541461815798,59.567502543421455,True,Extreme high activity (>500% of district),259.5025516062494
+712146,Hooghly,Westbengal,3081.0,565.0,18338.20188250568,56.22393905923415,True,Extreme high activity (>500% of district),259.4792142944476
+502110,Medak,_Andhrapradesh,3108.0,369.0,11872.586872586873,77.05558446293801,True,Extreme high activity (>500% of district),256.37926488028563
+392180,Bharuch,Haryana,3280.0,222.0,6768.292682926829,43.707904158230804,True,Extreme high activity (>500% of district),244.13268909474948
+721157,Paschim Medinipur,Westbengal,3294.0,233.0,7073.466909532484,86.07509997531294,True,Extreme high activity (>500% of district),241.87607585647697
+752022,Khorda,Odisha,3351.0,366.0,10922.112802148613,82.1726607257744,True,Extreme high activity (>500% of district),239.75798690188304
+591201,Belgaum,Karnataka,3437.0,586.0,17049.752691300553,114.48410123392101,True,Extreme high activity (>500% of district),234.91973297709418
+560061,Bangalore,Karnataka,3479.0,670.0,19258.40758838747,128.8578450843106,True,Extreme high activity (>500% of district),232.4849694774155
+177034,Kangra,Himachalpradesh,3522.0,222.0,6303.236797274276,63.26623959486302,True,Extreme high activity (>500% of district),228.53033621259982
+752034,Khorda,Odisha,3593.0,615.0,17116.61564152519,82.1726607257744,True,Extreme high activity (>500% of district),226.39828499069242
+174026,Bilaspur,Himachalpradesh,3651.0,272.0,7450.0136948781155,48.23817501257395,True,Extreme high activity (>500% of district),222.4065510323874
+762001,Kandhamal,Odisha,3776.0,298.0,7891.949152542373,67.03837638967535,True,Extreme high activity (>500% of district),215.55628007181093
+461446,Hoshangabad,Manipur,3108.0,17.0,546.975546975547,65.36994904989265,True,Extreme high activity (>500% of district); Very low absolute activity (<50 records),215.17218810656598
+324006,Kota,Rajasthan,3850.0,327.0,8493.506493506493,58.61166757625553,True,Extreme high activity (>500% of district),212.31474110469333
+723153,Purulia,Westbengal,3950.0,268.0,6784.810126582279,117.61173114458735,True,Extreme high activity (>500% of district),205.26355725029242
+629101,Kanyakumari,Tamilnadu,4192.0,398.0,9494.274809160306,141.26719151065333,True,Extreme high activity (>500% of district),195.5264232867474
+177201,Una,Himachalpradesh,4078.0,231.0,5664.541441883277,217.19376896473403,True,Extreme high activity (>500% of district),195.20305389620898
+233001,Ghazipur,Uttar Pradesh,4278.0,321.0,7503.506311360449,27.15565195273112,True,Extreme high activity (>500% of district),194.14073373313283
+583201,Ballari,Karnataka,4334.0,976.0,22519.612367328104,137.91540016747862,True,Extreme high activity (>500% of district),191.84749641032968
+613001,Thanjavur,Tamilnadu,4292.0,318.0,7409.133271202237,103.26694342076256,True,Extreme high activity (>500% of district),191.57266492461648
+444810,Amravati,Maharashtra,4334.0,213.0,4914.628518689433,44.72690591533987,True,Extreme high activity (>500% of district),190.57419863983998
+177044,Hamirpur,Himachalpradesh,4364.0,204.0,4674.610449129239,89.19736443537718,True,Extreme high activity (>500% of district),187.47346131282052
+733143,North Dinajpur,Westbengal,4378.0,391.0,8931.018730013706,171.80324915505832,True,Extreme high activity (>500% of district),187.3528188292794
+176060,Kangra,Himachalpradesh,4463.0,206.0,4615.729330047053,63.26623959486302,True,Extreme high activity (>500% of district),184.8212155278352
+440026,Nagpur,Maharashtra,4663.0,331.0,7098.434484237616,59.567502543421455,True,Extreme high activity (>500% of district),179.10161122693975
+752021,Khordha,Odisha,4805.0,625.0,13007.284079084287,105.75724060817463,True,Extreme high activity (>500% of district),174.7192449317272
+742303,Murshidabad,Westbengal,4991.0,236.0,4728.511320376678,41.85676929084319,True,Extreme high activity (>500% of district),168.39509527604258
+177206,Una,Himachalpradesh,4776.0,220.0,4606.365159128978,217.19376896473403,True,Extreme high activity (>500% of district),168.24961065249667
+737101,East Sikkim,Sikkim,5019.0,661.0,13169.954174138275,239.08417679693514,True,Extreme high activity (>500% of district),166.44461965031294
+829210,Ranchi,Jharkhand,5133.0,296.0,5766.608221313072,23.2271935135582,True,Extreme high activity (>500% of district),165.21677427671878
+576102,Udupi,Karnataka,5091.0,299.0,5873.109408760558,106.7514061328456,True,Extreme high activity (>500% of district),164.06107262807168
+176092,Kangra,Himachalpradesh,5133.0,266.0,5182.15468536918,63.26623959486302,True,Extreme high activity (>500% of district),163.79753532202508
+173204,Solan,Himachalpradesh,4920.0,155.0,3150.4065040650407,164.07134627637274,True,Extreme high activity (>500% of district),162.74123493518013
+262526,Pithoragarh,Uttarakhand,5076.0,136.0,2679.2750197005516,75.30793493524423,True,Extreme high activity (>500% of district),162.17727134072305
+470002,Sagar,Manipur,5289.0,333.0,6296.08621667612,31.261779486491534,True,Extreme high activity (>500% of district),160.81417045669755
+144805,Jalandhar,Punjab,5233.0,198.0,3783.6804892031337,90.44747728160894,True,Extreme high activity (>500% of district),158.9190942456144
+493881,Raipur,Chhattisgarh,5376.0,281.0,5226.934523809524,42.58271671395801,True,Extreme high activity (>500% of district),157.9184055609324
+847122,Madhubani,_Bihar,5446.0,315.0,5784.061696658097,19.25461481796708,True,Extreme high activity (>500% of district),156.9417698065167
+713128,Barddhaman,Westbengal,5462.0,700.0,12815.818381545221,84.641809334665,True,Extreme high activity (>500% of district),156.29296101275554
+733103,Dakshin Dinajpur,Westbengal,5462.0,344.0,6298.059318930795,83.86175225457634,True,Extreme high activity (>500% of district),155.0082656269575
+172110,Kinnaur,Himachalpradesh,5289.0,211.0,3989.411987143127,215.2259524060156,True,Extreme high activity (>500% of district),152.6333087985356
+626101,Virudhunagar,Tamilnadu,5760.0,327.0,5677.083333333334,69.01792482995344,True,Extreme high activity (>500% of district),148.0472221121589
+712305,Hooghly,Westbengal,5775.0,324.0,5610.38961038961,56.22393905923415,True,Extreme high activity (>500% of district),148.0222181557186
+580001,Dharwad,Karnataka,5802.0,354.0,6101.34436401241,64.87670468678155,True,Extreme high activity (>500% of district),147.36004313450246
+400706,Thane,Maharashtra,5845.0,331.0,5662.959794696321,77.26104153954547,True,Extreme high activity (>500% of district),145.92659772929136
+274603,Deoria,Uttar Pradesh,5916.0,326.0,5510.480054090602,22.862460264204678,True,Extreme high activity (>500% of district),145.7589241447844
+583211,Ballari,Karnataka,5890.0,503.0,8539.898132427843,137.91540016747862,True,Extreme high activity (>500% of district),144.72050239383188
+133001,Ambala,Gujrat,6018.0,294.0,4885.343968095713,70.14142507679884,True,Extreme high activity (>500% of district),142.05135453544253

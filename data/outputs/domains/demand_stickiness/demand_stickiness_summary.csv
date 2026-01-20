@@ -1,0 +1,4 @@
+demand_stickiness_bucket,pincodes,avg_stickiness
+high_stickiness,200,0.6233342121934258
+low_stickiness,13247,0.2584223087219933
+moderate_stickiness,800,0.542131861416094

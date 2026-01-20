@@ -1,0 +1,101 @@
+priority_rank,pincode,district,state,population,is_service_desert,potential_stress_signal,mismatch_type,composite_priority,intervention_type,recommended_mobile_units,estimated_field_staff
+1,273305,Maharajganj,Uttar Pradesh,5281081.0,True,True,low_activity,7.547964155893077,capacity_expansion,106,318
+2,241001,Hardoi,Uttar Pradesh,4682185.0,True,True,low_activity,7.535927565285647,capacity_expansion,94,282
+3,811106,Lakhisarai,_Bihar,3927951.0,True,True,low_activity,7.518362872842256,capacity_expansion,79,237
+4,396067,Valsad,Haryana,3202558.0,True,True,low_activity,7.497946073569027,capacity_expansion,65,195
+5,852219,Madhepura,_Bihar,2260468.0,True,True,low_activity,7.463108287184262,capacity_expansion,46,138
+6,484664,Umaria,Manipur,2068424.0,True,True,low_activity,7.454229800606818,capacity_expansion,42,126
+7,212621,Fatehpur,Uttar Pradesh,1934417.0,True,True,low_activity,7.447531706401029,capacity_expansion,39,117
+8,273310,Maharajganj,Uttar Pradesh,1838163.0,True,True,low_activity,7.442427780533835,capacity_expansion,37,111
+9,464570,Raisen,Manipur,870526.0,True,True,low_activity,7.367685405436647,capacity_expansion,18,54
+10,365730,Amreli,Haryana,779573.0,True,True,low_activity,7.356650289562328,capacity_expansion,16,48
+11,370115,Kachchh,Haryana,532944.0,True,True,low_activity,7.318617350833015,capacity_expansion,11,33
+12,402208,Raigad,Maharashtra,461500.0,True,True,low_activity,7.304223949976993,capacity_expansion,10,30
+13,811311,Sheikhpura,_Bihar,5821669.0,True,True,balanced,6.557709772012851,permanent_center,117,351
+14,450001,East Nimar,Manipur,4216421.0,True,True,balanced,6.525449745907084,permanent_center,85,255
+15,271831,Shrawasti,Uttar Pradesh,3746993.0,True,True,balanced,6.513646447649352,permanent_center,75,225
+16,450331,East Nimar,Manipur,3217136.0,True,True,balanced,6.498400239157489,permanent_center,65,195
+17,221712,Ballia,Uttar Pradesh,3117303.0,True,True,balanced,6.495247908366974,permanent_center,63,189
+18,385310,Banaskantha,Haryana,3056547.0,True,True,balanced,6.493279673256448,permanent_center,62,186
+19,221711,Ballia,Uttar Pradesh,2651535.0,True,True,balanced,6.479064965268759,permanent_center,54,162
+20,325221,Baran,Rajasthan,2620123.0,True,True,balanced,6.477873220286161,permanent_center,53,159
+21,415523,Satara,Maharashtra,2493123.0,True,True,balanced,6.47290471005387,permanent_center,50,150
+22,345001,Jaisalmer,Rajasthan,2471451.0,True,True,balanced,6.472031639013655,permanent_center,50,150
+23,144521,Nawanshahr,Punjab,2158441.0,True,True,balanced,6.458489722310472,permanent_center,44,132
+24,571111,Chamrajnagar,Karnataka,2126580.0,True,True,balanced,6.457002608370986,permanent_center,43,129
+25,147101,Patiala,Punjab,2070416.0,True,True,balanced,6.454326059422874,permanent_center,42,126
+26,147201,Patiala,Punjab,2027190.0,True,True,balanced,6.452216164891801,permanent_center,41,123
+27,784145,Darrang,_Assam,2010877.0,True,True,balanced,6.451408200057935,permanent_center,41,123
+28,285001,Jalaun,Uttar Pradesh,1984423.0,True,True,balanced,6.450083925367172,permanent_center,40,120
+29,472115,Bhandara,Maharashtra,1980212.0,True,True,balanced,6.449871497264244,permanent_center,40,120
+30,494226,Kondagaon,Chhattisgarh,1926851.0,True,True,balanced,6.4471398141125755,permanent_center,39,117
+31,422601,Ahilyanagar,Maharashtra,1893892.0,True,True,balanced,6.4454145056940115,permanent_center,38,114
+32,126116,Jind,Gujrat,1843613.0,True,True,balanced,6.44272383336378,permanent_center,37,111
+33,322001,Sawai Madhopur,Rajasthan,1703861.0,True,True,balanced,6.434840799717637,permanent_center,35,105
+34,785692,Charaideo,_Assam,1651320.0,True,True,balanced,6.4317086131623284,permanent_center,34,102
+35,322025,Sawai Madhopur,Rajasthan,1570937.0,True,True,balanced,6.426718345115026,permanent_center,32,96
+36,493118,Baloda Bazar,Chhattisgarh,1477746.0,True,True,balanced,6.420602918857121,permanent_center,30,90
+37,322023,Sawai Madhopur,Rajasthan,1476968.0,True,True,balanced,6.420550257280308,permanent_center,30,90
+38,262523,Champawat,Uttarakhand,1420619.0,True,True,balanced,6.41666039540051,permanent_center,29,87
+39,493332,Baloda Bazar,Chhattisgarh,1401105.0,True,True,balanced,6.415277248269973,permanent_center,29,87
+40,152026,Muktsar,Punjab,1381272.0,True,True,balanced,6.413851609569328,permanent_center,28,84
+41,781372,Baksa,_Assam,1346601.0,True,True,balanced,6.411309494031426,permanent_center,27,81
+42,583212,Vijayanagara,Karnataka,1320364.0,True,True,balanced,6.40934187714908,permanent_center,27,81
+43,493228,Baloda Bazar,Chhattisgarh,1291641.0,True,True,balanced,6.407142483514494,permanent_center,26,78
+44,494450,Bijapur,Chhattisgarh,1248728.0,True,True,balanced,6.4037636791986685,permanent_center,25,75
+45,494446,Bijapur,Chhattisgarh,1231955.0,True,True,balanced,6.402411370815212,permanent_center,25,75
+46,364710,Botad,Haryana,1133155.0,True,True,balanced,6.394051721808724,permanent_center,23,69
+47,781327,Baksa,_Assam,1080999.0,True,True,balanced,6.389339709662135,permanent_center,22,66
+48,494447,Bijapur,Chhattisgarh,1038205.0,True,True,balanced,6.385300478159186,permanent_center,21,63
+49,416702,Ratnagiri,Maharashtra,984362.0,True,True,balanced,6.3799750010445635,permanent_center,20,60
+50,142048,Moga,Punjab,944899.0,True,True,balanced,6.3758834380770715,permanent_center,19,57
+51,797112,Dimapur,Nagaland,886859.0,True,True,balanced,6.369544241343418,permanent_center,18,54
+52,415712,Ratnagiri,Maharashtra,822825.0,True,True,balanced,6.362050003567831,permanent_center,17,51
+53,415709,Ratnagiri,Maharashtra,740243.0,True,True,balanced,6.351473514056118,permanent_center,15,45
+54,415804,Ratnagiri,Maharashtra,669879.0,True,True,balanced,6.341485387084841,permanent_center,14,42
+55,182201,Doda,Jammu And Kashmir,651514.0,True,True,balanced,6.338705569907324,permanent_center,14,42
+56,185132,Rajouri,Jammu And Kashmir,493945.0,True,True,balanced,6.31101814784542,permanent_center,10,30
+57,792056,Changlang,_Arunachalpradesh,372042.0,True,True,balanced,6.282676471797297,permanent_center,8,24
+58,834001,Ranchi,Jharkhand,25837603.0,True,False,low_activity,5.706734150812129,capacity_expansion,517,1551
+59,854315,Purnia,_Bihar,11349792.0,True,False,low_activity,5.624471006383991,capacity_expansion,227,681
+60,274202,Deoria,Uttar Pradesh,10256538.0,True,False,low_activity,5.614342601136383,capacity_expansion,206,618
+61,248001,Dehradun,Uttarakhand,9894309.0,True,False,low_activity,5.610747040239943,capacity_expansion,198,594
+62,824232,Gaya,_Bihar,9570978.0,True,False,low_activity,5.607424605704754,capacity_expansion,192,576
+63,835207,Gumla,Jharkhand,9112183.0,True,False,low_activity,5.602512297705717,capacity_expansion,183,549
+64,847408,Madhubani,_Bihar,7936610.0,True,False,low_activity,5.588699691591062,capacity_expansion,159,477
+65,273303,Gorakhpur,Uttar Pradesh,7540436.0,True,False,low_activity,5.583579069586435,capacity_expansion,151,453
+66,847203,Darbhanga,_Bihar,7427489.0,True,False,low_activity,5.582069853996996,capacity_expansion,149,447
+67,855101,Kishanganj,_Bihar,7272758.0,True,False,low_activity,5.579964628233027,capacity_expansion,146,438
+68,854318,Purnia,_Bihar,7159643.0,True,False,low_activity,5.578397081703033,capacity_expansion,144,432
+69,271001,Gonda,Uttar Pradesh,7103760.0,True,False,low_activity,5.577613492007019,capacity_expansion,143,429
+70,222143,Jaunpur,Uttar Pradesh,7093416.0,True,False,low_activity,5.577467772881283,capacity_expansion,142,426
+71,835210,Gumla,Jharkhand,6980513.0,True,False,low_activity,5.575863311099582,capacity_expansion,140,420
+72,271201,Balrampur,Uttar Pradesh,6840070.0,True,False,low_activity,5.573830866966182,capacity_expansion,137,411
+73,249401,Hardwar,Uttarakhand,6770085.0,True,False,low_activity,5.572802434790969,capacity_expansion,136,408
+74,843302,Sitamarhi,_Bihar,6416902.0,True,False,low_activity,5.567444616052054,capacity_expansion,129,387
+75,814155,Godda,Jharkhand,6368176.0,True,False,low_activity,5.566682380134621,capacity_expansion,128,384
+76,854334,Araria,_Bihar,6300033.0,True,False,low_activity,5.56560655881726,capacity_expansion,127,381
+77,824231,Gaya,_Bihar,6173086.0,True,False,low_activity,5.563570959491028,capacity_expansion,124,372
+78,844122,Vaishali,_Bihar,5990772.0,True,False,low_activity,5.560573101017963,capacity_expansion,120,360
+79,845439,West Champaran,_Bihar,5967485.0,True,False,low_activity,5.560183629115132,capacity_expansion,120,360
+80,855113,Katihar,_Bihar,5860254.0,True,False,low_activity,5.5583703675964795,capacity_expansion,118,354
+81,243201,Bareilly,Uttar Pradesh,5841479.0,True,False,low_activity,5.558049474735534,capacity_expansion,117,351
+82,854311,Araria,_Bihar,5769710.0,True,False,low_activity,5.556813255057479,capacity_expansion,116,348
+83,813101,Banka,_Bihar,5633294.0,True,False,low_activity,5.554420508646832,capacity_expansion,113,339
+84,272153,Siddharthnagar,Uttar Pradesh,5627000.0,True,False,low_activity,5.554308717612999,capacity_expansion,113,339
+85,231211,Mirzapur,Uttar Pradesh,5464735.0,True,False,low_activity,5.551382637101514,capacity_expansion,110,330
+86,486889,Singrauli,Manipur,5385650.0,True,False,low_activity,5.549924875263075,capacity_expansion,108,324
+87,222142,Jaunpur,Uttar Pradesh,5317281.0,True,False,low_activity,5.548647282850716,capacity_expansion,107,321
+88,844113,Vaishali,_Bihar,5311596.0,True,False,low_activity,5.548540310129658,capacity_expansion,107,321
+89,262406,Bareilly,Uttar Pradesh,5290131.0,True,False,low_activity,5.548135375626419,capacity_expansion,106,318
+90,454446,Dhar,Manipur,5274082.0,True,False,low_activity,5.5478315383352115,capacity_expansion,106,318
+91,262122,Bareilly,Uttar Pradesh,5207018.0,True,False,low_activity,5.5465518081072505,capacity_expansion,105,315
+92,231304,Mirzapur,Uttar Pradesh,5191414.0,True,False,low_activity,5.546251685767434,capacity_expansion,104,312
+93,272192,Siddharthnagar,Uttar Pradesh,5186749.0,True,False,low_activity,5.5461617854755385,capacity_expansion,104,312
+94,222001,Jaunpur,Uttar Pradesh,5184636.0,True,False,low_activity,5.546121038755177,capacity_expansion,104,312
+95,451666,Barwani,Manipur,5159045.0,True,False,low_activity,5.545626223664371,capacity_expansion,104,312
+96,802122,Buxar,_Bihar,5104710.0,True,False,low_activity,5.544567439681291,capacity_expansion,103,309
+97,243601,Budaun,Uttar Pradesh,5078408.0,True,False,low_activity,5.5440508581524375,capacity_expansion,102,306
+98,244001,Moradabad,Uttar Pradesh,5064400.0,True,False,low_activity,5.543774642608497,capacity_expansion,102,306
+99,262804,Kheri,Uttar Pradesh,5042025.0,True,False,low_activity,5.543331854340057,capacity_expansion,101,303
+100,843324,Sitamarhi,_Bihar,4994110.0,True,False,low_activity,5.542376997624685,capacity_expansion,100,300

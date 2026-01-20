@@ -1,0 +1,5 @@
+dependency_bucket,pincodes,avg_dependency_score
+critical_dependency,200,0.6394628520476358
+high_dependency,800,0.5826987352179356
+low_dependency,16879,0.3785387761204195
+moderate_dependency,2000,0.5149882740347449

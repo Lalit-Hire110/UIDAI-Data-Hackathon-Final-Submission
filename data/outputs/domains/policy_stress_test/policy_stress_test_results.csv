@@ -1,0 +1,4 @@
+scenario,kits_added,critical_before,critical_after,critical_reduction,high_before,high_after
+Add 50 Kits,50,100,100,0,400,400
+Add 100 Kits,100,100,100,0,400,400
+Add 200 Kits,200,100,100,0,400,400

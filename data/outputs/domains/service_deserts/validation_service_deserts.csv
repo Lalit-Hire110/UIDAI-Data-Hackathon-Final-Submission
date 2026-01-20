@@ -1,0 +1,5 @@
+check_name,result,details
+total_pincodes,PASS,19879 pincodes processed
+no_infinite_values,FAIL,Infinite values detected
+population_coverage,FAIL,4735 pincodes with missing/zero population
+metric_range_valid,PASS,Metrics within expected ranges

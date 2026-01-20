@@ -1,0 +1,4 @@
+trust_gravity_bucket,pincodes,avg_trust_gravity
+high_trust_gravity,200,0.6880820001169744
+moderate_trust_gravity,800,0.6224207448198703
+normal,17429,0.5291673253984612

@@ -1,0 +1,300 @@
+pincode,district,state,shock_count,recovery_ratio,volatility,recovery_norm,volatility_norm,policy_shock_absorption_score,absorption_rank,absorption_bucket
+110069,Central Delhi,Delhi,3,,2.1608079297084477,,0.6237715199421251,,1,high_absorption
+121014,Faridabad,Gujrat,2,,1.226337351187327,,0.35401309991264795,,2,high_absorption
+123003,Gurgaon,Gujrat,2,,2.3354968324845693,,0.6741998624632423,,3,high_absorption
+123304,Rewari,Gujrat,3,,2.976269782493149,,0.8591750800516844,,4,high_absorption
+124141,Jhajjar,Gujrat,2,,2.335496832484569,,0.6741998624632421,,5,high_absorption
+125011,Hisar,Gujrat,2,,2.486326242032244,,0.7177405625652734,,6,high_absorption
+127020,Bhiwani,Gujrat,1,,3.4641016151377544,,1.0,,7,high_absorption
+134002,Ambala,Gujrat,1,,3.4641016151377544,,1.0,,8,high_absorption
+134103,Panchkula,Gujrat,1,,1.210497388201391,,0.349440496465706,,9,high_absorption
+143007,Amritsar,Punjab,1,,3.4641016151377544,,1.0,,10,high_absorption
+144411,Jalandhar,Punjab,2,,1.651445647689541,,0.4767312946227962,,11,high_absorption
+144603,Kapurthala,Punjab,2,,2.335496832484569,,0.6741998624632421,,12,high_absorption
+147006,Fatehgarh Sahib,Punjab,2,,1.6045390162116515,,0.4631905164675272,,13,high_absorption
+152020,Fazilka,Punjab,3,,1.9031075066370216,,0.549379815626841,,14,high_absorption
+171014,Shimla,Himachalpradesh,2,,2.3354968324845693,,0.6741998624632423,,15,high_absorption
+172112,Kinnaur,Himachalpradesh,1,,1.1316767607927063,,0.32668694123965636,,16,high_absorption
+173230,Solan,Himachalpradesh,1,,1.102453025361453,,0.31825077548067615,,17,high_absorption
+175012,Mandi,Himachalpradesh,2,,1.4536801113485807,,0.4196413018013541,,18,high_absorption
+175013,Mandi,Himachalpradesh,1,,1.4539642682166738,,0.41972333082349694,,19,high_absorption
+175014,Mandi,Himachalpradesh,1,,1.1867303090393555,,0.34257953168967986,,20,high_absorption
+175020,Mandi,Himachalpradesh,1,,1.5840110192454182,,0.4572645941803379,,21,high_absorption
+175022,Mandi,Himachalpradesh,2,,2.078460969082653,,0.6000000000000001,,22,high_absorption
+175075,Mandi,Himachalpradesh,2,,1.954016841836789,,0.5640760748177662,,23,high_absorption
+175140,Lahul & Spiti,Himachalpradesh,1,,1.1739478936263967,,0.3388895661998972,,24,high_absorption
+176062,Kangra,Himachalpradesh,1,,1.2358287613066492,,0.35675303400633784,,25,high_absorption
+176307,Chamba,Himachalpradesh,2,,1.6682120232032633,,0.48157133033088717,,26,high_absorption
+181209,Jammu,Jammu And Kashmir,1,,3.4641016151377544,,1.0,,27,high_absorption
+182206,Kishtwar,Jammu And Kashmir,1,,3.4641016151377544,,1.0,,28,high_absorption
+191132,Budgam,Jammu And Kashmir,1,,1.7148024206687555,,0.495020819590064,,29,high_absorption
+193109,Baramula,Jammu And Kashmir,2,,2.3354968324845693,,0.6741998624632423,,30,high_absorption
+194204,Leh,Ladakh,1,,3.4641016151377544,,1.0,,31,high_absorption
+194404,Leh,Jammu And Kashmir,1,,1.1192101676520052,,0.3230881457868257,,32,high_absorption
+203407,Bulandshahr,Uttar Pradesh,1,,1.0765012707120254,,0.31075914921428105,,33,high_absorption
+207003,Etah,Uttar Pradesh,1,,3.4641016151377544,,1.0,,34,high_absorption
+209746,Farrukhabad,Uttar Pradesh,1,,3.4641016151377544,,1.0,,35,high_absorption
+210010,Allahabad,Uttar Pradesh,3,,2.0,,0.5773502691896258,,36,high_absorption
+211017,Allahabad,Uttar Pradesh,1,,3.4641016151377544,,1.0,,37,high_absorption
+211018,Allahabad,Uttar Pradesh,1,,1.4770978917519928,,0.4264014327112209,,38,high_absorption
+212110,Prayagraj,Uttar Pradesh,1,,3.4641016151377544,,1.0,,39,high_absorption
+221719,Ballia,Uttar Pradesh,1,,3.4641016151377544,,1.0,,40,high_absorption
+224119,Bara Banki,Uttar Pradesh,2,,2.3354968324845693,,0.6741998624632423,,41,high_absorption
+229315,Rae Bareli,Uttar Pradesh,1,,3.4641016151377544,,1.0,,42,high_absorption
+230145,Pratapgarh,Uttar Pradesh,1,,3.4641016151377544,,1.0,,43,high_absorption
+232114,Varanasi,Uttar Pradesh,2,,2.335496832484569,,0.6741998624632421,,44,high_absorption
+232115,Varanasi,Uttar Pradesh,2,,2.486326242032244,,0.7177405625652734,,45,high_absorption
+232116,Chandauli,Uttar Pradesh,2,,2.486326242032244,,0.7177405625652734,,46,high_absorption
+232119,Varanasi,Uttar Pradesh,3,,2.1608079297084477,,0.6237715199421251,,47,high_absorption
+243406,Bareilly,Uttar Pradesh,1,,3.4641016151377544,,1.0,,48,high_absorption
+244101,Moradabad,Uttar Pradesh,2,,2.486326242032244,,0.7177405625652734,,49,high_absorption
+244245,Amroha,Uttar Pradesh,2,,2.891995221924885,,0.834847109936722,,50,high_absorption
+246280,Garhwal,Uttarakhand,1,,3.4641016151377544,,1.0,,51,high_absorption
+246445,Rudraprayag,Uttarakhand,1,,3.4641016151377544,,1.0,,52,high_absorption
+248152,Dehradun,Uttarakhand,1,,1.0870919994151769,,0.3138164292481204,,53,high_absorption
+249128,Tehri Garhwal,Uttarakhand,1,,1.078836417210268,,0.3114332479439598,,54,high_absorption
+263137,Nainital,Uttarakhand,1,,1.1325095339825249,,0.32692734215231417,,55,high_absorption
+263144,Nainital,Uttarakhand,1,,3.4641016151377544,,1.0,,56,high_absorption
+263156,Nainital,Uttarakhand,1,,1.5186789179634461,,0.43840484104940264,,57,high_absorption
+263686,Almora,Uttarakhand,1,,3.4641016151377544,,1.0,,58,high_absorption
+272269,Siddharthnagar,Uttar Pradesh,1,,3.4641016151377544,,1.0,,59,high_absorption
+302035,Jaipur,Rajasthan,3,,1.8090680674665818,,0.5222329678670936,,60,high_absorption
+303010,Jaipur,Rajasthan,2,,2.486326242032244,,0.7177405625652734,,61,high_absorption
+303331,Jaipur,Rajasthan,1,,3.4641016151377544,,1.0,,62,high_absorption
+303339,Jaipur,Rajasthan,2,,2.662876093795784,,0.7687061147858075,,63,high_absorption
+311028,Bhilwara,Rajasthan,2,,1.539853730600858,,0.4445174829375274,,64,high_absorption
+311029,Bhilwara,Rajasthan,2,,2.3354968324845693,,0.6741998624632423,,65,high_absorption
+311810,Bhilwara,Rajasthan,2,,2.3354968324845693,,0.6741998624632423,,66,high_absorption
+312617,Chittorgarh,Rajasthan,2,,1.4672321924686837,,0.4235534506427397,,67,high_absorption
+333037,Jhunjhunun,Rajasthan,2,,2.3354968324845693,,0.6741998624632423,,68,high_absorption
+360465,Rajkot,Haryana,3,,2.1608079297084477,,0.6237715199421251,,69,high_absorption
+362276,Junagadh,Haryana,1,,3.4641016151377544,,1.0,,70,high_absorption
+362715,Gir Somnath,Haryana,1,,1.1281521496355325,,0.32566947363946486,,71,high_absorption
+365730,Amreli,Haryana,1,,1.2060453783110545,,0.3481553119113957,,72,high_absorption
+370115,Kachchh,Haryana,3,,2.1608079297084477,,0.6237715199421251,,73,high_absorption
+382009,Gandhinagar,Haryana,1,,3.4641016151377544,,1.0,,74,high_absorption
+382045,Gandhinagar,Haryana,1,,1.6096301099659795,,0.46466018864229264,,75,high_absorption
+382419,Gandhinagar,Haryana,3,,1.9031075066370218,,0.549379815626841,,76,high_absorption
+384520,Mahesana,Haryana,3,,1.8090680674665818,,0.5222329678670936,,77,high_absorption
+384540,Mahesana,Haryana,2,,1.8090680674665816,,0.5222329678670935,,78,high_absorption
+391111,Vadodara,Haryana,1,,3.4641016151377544,,1.0,,79,high_absorption
+394652,Tapi,Haryana,1,,3.4641016151377544,,1.0,,80,high_absorption
+396455,Navsari,Haryana,1,,3.4641016151377544,,1.0,,81,high_absorption
+400023,Mumbai City,Maharashtra,3,,1.8576422904871397,,0.5362551382353916,,82,high_absorption
+400038,Mumbai,Maharashtra,2,,2.3354968324845693,,0.6741998624632423,,83,high_absorption
+400039,Mumbai City,Maharashtra,1,,1.3942767119707196,,0.40249301749056066,,84,high_absorption
+400073,Mumbai,Maharashtra,2,,2.3354968324845693,,0.6741998624632423,,85,high_absorption
+400085,Mumbai,Maharashtra,2,,1.4305878224198256,,0.4129751321867435,,86,high_absorption
+400613,Mumbai,Maharashtra,2,,2.3354968324845693,,0.6741998624632423,,87,high_absorption
+401609,Thane,Maharashtra,1,,1.2792042981336624,,0.36927447293799814,,88,high_absorption
+403201,North Goa,Goa,1,,1.3336484476121064,,0.3849911451165881,,89,high_absorption
+403203,North Goa,Goa,1,,1.477097891751993,,0.42640143271122094,,90,high_absorption
+403407,North Goa,Goa,3,,2.0,,0.5773502691896258,,91,high_absorption
+403729,South Goa,Goa,3,,1.954016841836789,,0.5640760748177662,,92,high_absorption
+410517,Pune,Maharashtra,1,,1.2870763988845637,,0.37154695268180854,,93,high_absorption
+411081,Pune,Maharashtra,2,,2.3354968324845693,,0.6741998624632423,,94,high_absorption
+413580,Osmanabad,Maharashtra,1,,1.7779252464089095,,0.5132428098066079,,95,high_absorption
+415204,Sangli,Maharashtra,1,,3.4641016151377544,,1.0,,96,high_absorption
+415630,Ratnagiri,Maharashtra,1,,1.3374526501508472,,0.38608932379648503,,97,high_absorption
+416144,Kolhapur,Maharashtra,2,,2.486326242032244,,0.7177405625652734,,98,high_absorption
+416319,Sangli,Maharashtra,1,,3.4641016151377544,,1.0,,99,high_absorption
+416421,Sangli,Maharashtra,1,,3.4641016151377544,,1.0,,100,high_absorption
+416423,Sangli,Maharashtra,3,,1.9540168418367891,,0.5640760748177663,,101,high_absorption
+416428,Sangli,Maharashtra,1,,3.4641016151377544,,1.0,,102,high_absorption
+416550,Sindhudurg,Maharashtra,2,,1.9984968054997705,,0.5769163343149498,,103,high_absorption
+425106,Jalgaon,Maharashtra,1,,3.4641016151377544,,1.0,,104,high_absorption
+425318,Jalgaon,Maharashtra,2,,2.335496832484569,,0.6741998624632421,,105,high_absorption
+425327,Jalgaon,Maharashtra,1,,1.5954480704349312,,0.4605661864718383,,106,high_absorption
+431154,Chhatrapati Sambhajinagar,Maharashtra,1,,1.9962859763679686,,0.5762781229177608,,107,high_absorption
+442003,Wardha,Maharashtra,2,,2.486326242032244,,0.7177405625652734,,108,high_absorption
+442006,Wardha,Maharashtra,1,,3.4641016151377544,,1.0,,109,high_absorption
+442110,Wardha,Maharashtra,2,,1.3532068693177814,,0.39063717513493595,,110,high_absorption
+454648,Dhar,Manipur,2,,2.486326242032244,,0.7177405625652734,,111,high_absorption
+462040,Bhopal,Manipur,1,,1.1777334830679052,,0.3399823717414453,,112,high_absorption
+462066,Bhopal,Manipur,2,,1.3282732265274957,,0.38343945244651123,,113,high_absorption
+464334,Vidisha,Manipur,3,,1.954016841836789,,0.5640760748177662,,114,high_absorption
+464570,Raisen,Manipur,1,,0.9821854225947492,,0.2835325090646024,,115,high_absorption
+465516,Shajapur,Manipur,1,,1.4076388472560235,,0.4063503336925199,,116,high_absorption
+470021,Sagar,Manipur,1,,1.3698042328608993,,0.39542842128966454,,117,high_absorption
+470122,Sagar,Manipur,2,,2.335496832484569,,0.6741998624632421,,118,high_absorption
+470669,Sagar,Manipur,2,,2.486326242032244,,0.7177405625652734,,119,high_absorption
+473993,Shivpuri,Manipur,3,,1.8090680674665818,,0.5222329678670936,,120,high_absorption
+483050,Jabalpur,Manipur,2,,2.335496832484569,,0.6741998624632421,,121,high_absorption
+484447,Anuppur,Manipur,1,,1.3323467750529827,,0.3846153846153847,,122,high_absorption
+484664,Umaria,Manipur,3,,1.8090680674665818,,0.5222329678670936,,123,high_absorption
+484887,Anuppur,Manipur,1,,2.154791282136567,,0.6220346633945029,,124,high_absorption
+486451,Rewa,Manipur,2,,1.5175738212786563,,0.4380858271151806,,125,high_absorption
+488443,Panna,Manipur,1,,1.1972922116677325,,0.34562849035250387,,126,high_absorption
+491669,Rajnandgaon,Chhattisgarh,1,,3.4641016151377544,,1.0,,127,high_absorption
+491672,Gariyaband,Chhattisgarh,1,,1.5207653575510167,,0.4390071442781685,,128,high_absorption
+492441,Raipur,Chhattisgarh,1,,3.4641016151377544,,1.0,,129,high_absorption
+495002,Rajnandgaon,Chhattisgarh,1,,3.4641016151377544,,1.0,,130,high_absorption
+495003,Bilaspur,Chhattisgarh,2,,1.954016841836789,,0.5640760748177662,,131,high_absorption
+496108,Raigarh,Chhattisgarh,2,,2.486326242032244,,0.7177405625652734,,132,high_absorption
+496197,Raigarh,Chhattisgarh,1,,1.5434342355060342,,0.4455510856729466,,133,high_absorption
+500021,Hyderabad,_Andhrapradesh,2,,2.486326242032244,,0.7177405625652734,,134,high_absorption
+500041,Hyderabad,_Andhrapradesh,1,,1.5175738212786563,,0.4380858271151806,,135,high_absorption
+500066,Hyderabad,_Andhrapradesh,3,,2.1608079297084477,,0.6237715199421251,,136,high_absorption
+500093,Hyderabad,_Andhrapradesh,1,,1.477097891751993,,0.42640143271122094,,137,high_absorption
+502205,Medak,_Andhrapradesh,2,,1.4734648765842076,,0.4253526715686755,,138,high_absorption
+503174,Nizamabad,_Andhrapradesh,2,,1.5967961467805838,,0.46095534259236365,,139,high_absorption
+507138,Khammam,_Andhrapradesh,1,,1.338746959613,,0.3864629587546793,,140,high_absorption
+509309,Mahbubnagar,_Andhrapradesh,1,,1.574591643244434,,0.4545454545454546,,141,high_absorption
+515202,Sri Sathya Sai,_Andhrapradesh,1,,1.1704677887387571,,0.3378849464530537,,142,high_absorption
+515413,Ananthapur,_Andhrapradesh,1,,1.5814321495988335,,0.45652013863800756,,143,high_absorption
+516330,Y. S. R,_Andhrapradesh,3,,1.8090680674665818,,0.5222329678670936,,144,high_absorption
+516391,Y. S. R,_Andhrapradesh,1,,2.1532216876958206,,0.6215815605080612,,145,high_absorption
+517330,Chittoor,_Andhrapradesh,1,,1.0960847471023143,,0.316412411897082,,146,high_absorption
+521003,Krishna,_Andhrapradesh,1,,1.07249920533982,,0.3096038524543024,,147,high_absorption
+522102,Guntur,_Andhrapradesh,2,,1.7064864981283958,,0.4926202195314456,,148,high_absorption
+522510,Guntur,_Andhrapradesh,1,,1.3323467750529825,,0.38461538461538464,,149,high_absorption
+524319,Sri Potti Sriramulu Nellore,_Andhrapradesh,1,,1.331438046897892,,0.38435305739290376,,150,high_absorption
+524347,Sri Potti Sriramulu Nellore,_Andhrapradesh,1,,1.2632511087660303,,0.3646691838500804,,151,high_absorption
+530035,Visakhapatnam,_Andhrapradesh,3,,2.1608079297084477,,0.6237715199421251,,152,high_absorption
+531110,East Godavari,_Andhrapradesh,1,,1.0360765152509468,,0.2990895274905918,,153,high_absorption
+532187,Srikakulam,_Andhrapradesh,1,,3.4641016151377544,,1.0,,154,high_absorption
+533348,Alluri Sitharama Raju,_Andhrapradesh,1,,1.136933161789568,,0.32820433350490974,,155,high_absorption
+533349,Alluri Sitharama Raju,_Andhrapradesh,3,,2.335496832484569,,0.6741998624632421,,156,high_absorption
+534343,West Godavari,_Andhrapradesh,1,,3.4641016151377544,,1.0,,157,high_absorption
+534351,West Godavari,_Andhrapradesh,1,,3.4641016151377544,,1.0,,158,high_absorption
+535502,Parvathipuram Manyam,_Andhrapradesh,1,,1.1433920825969779,,0.330068863338326,,159,high_absorption
+560052,Bengaluru,Karnataka,1,,1.3455905557815617,,0.38843853479975143,,160,high_absorption
+560106,Bangalore,Karnataka,2,,1.8932552877030568,,0.5465357250000211,,161,high_absorption
+560117,Bangalore Rural,Karnataka,1,,1.6646592460438971,,0.4805457319062218,,162,high_absorption
+562166,Bengaluru,Karnataka,2,,1.3810525902723791,,0.39867554237939407,,163,high_absorption
+563163,Kolar,Karnataka,2,,1.6754917866921126,,0.48367281703584913,,164,high_absorption
+570027,Mysuru,Karnataka,1,,3.4641016151377544,,1.0,,165,high_absorption
+571106,Mysuru,Karnataka,1,,1.1249242398733104,,0.32473765635439544,,166,high_absorption
+571491,Chamarajanagar *,Karnataka,1,,3.4641016151377544,,1.0,,167,high_absorption
+571502,Ramanagar,Karnataka,1,,3.4641016151377544,,1.0,,168,high_absorption
+572144,Chitradurga,Karnataka,1,,1.3093073414159542,,0.3779644730092272,,169,high_absorption
+574169,Dakshina Kannada,Karnataka,1,,1.2893754745550878,,0.37221063866044074,,170,high_absorption
+577119,Hassan,Karnataka,1,,3.4641016151377544,,1.0,,171,high_absorption
+577444,Shimoga,Karnataka,1,,1.301858810945474,,0.3758142674731278,,172,high_absorption
+577602,Chitradurga,Karnataka,2,,2.486326242032244,,0.7177405625652734,,173,high_absorption
+580027,Dharwad,Karnataka,2,,1.477097891751993,,0.42640143271122094,,174,high_absorption
+591314,Belagavi,Karnataka,1,,1.530300030000059,,0.4417595671307133,,175,high_absorption
+600104,Chennai,Tamilnadu,1,,1.530300030000059,,0.4417595671307133,,176,high_absorption
+605002,Puducherry,Puducherry,2,,2.335496832484569,,0.6741998624632421,,177,high_absorption
+606123,Cuddalore,Tamilnadu,2,,2.486326242032244,,0.7177405625652734,,178,high_absorption
+610051,Thiruvarur,Tamilnadu,1,,3.4641016151377544,,1.0,,179,high_absorption
+610114,Thiruvarur,Tamilnadu,2,,2.335496832484569,,0.6741998624632421,,180,high_absorption
+621304,Tiruchirappalli,Tamilnadu,1,,1.3693063937629155,,0.3952847075210475,,181,high_absorption
+623802,Ramanathapuram,Tamilnadu,3,,2.2462089273828796,,0.6484246644403231,,182,high_absorption
+623807,Ramanathapuram,Tamilnadu,1,,3.4641016151377544,,1.0,,183,high_absorption
+625566,Madurai,Tamilnadu,2,,2.891995221924885,,0.834847109936722,,184,high_absorption
+626053,Virudhunagar,Tamilnadu,2,,2.3354968324845693,,0.6741998624632423,,185,high_absorption
+626144,Virudhunagar,Tamilnadu,3,,1.9540168418367891,,0.5640760748177663,,186,high_absorption
+626159,Virudhunagar,Tamilnadu,1,,3.4641016151377544,,1.0,,187,high_absorption
+627119,Tirunelveli,Tamilnadu,2,,1.7077798626782088,,0.492993581716943,,188,high_absorption
+627131,Tirunelveli,Tamilnadu,3,,2.056033250527026,,0.5935256753272999,,189,high_absorption
+627431,Tirunelveli,Tamilnadu,1,,3.4641016151377544,,1.0,,190,high_absorption
+627436,Tirunelveli,Tamilnadu,3,,1.954016841836789,,0.5640760748177662,,191,high_absorption
+627764,Tirunelveli,Tamilnadu,1,,3.4641016151377544,,1.0,,192,high_absorption
+627765,Tirunelveli,Tamilnadu,2,,2.662876093795784,,0.7687061147858075,,193,high_absorption
+628155,Thoothukkudi,Tamilnadu,2,,1.5175738212786563,,0.4380858271151806,,194,high_absorption
+628253,Thoothukkudi,Tamilnadu,1,,3.4641016151377544,,1.0,,195,high_absorption
+628624,Thoothukkudi,Tamilnadu,1,,3.4641016151377544,,1.0,,196,high_absorption
+628717,Thoothukkudi,Tamilnadu,1,,3.4641016151377544,,1.0,,197,high_absorption
+629183,Kanniyakumari,Tamilnadu,1,,3.4641016151377544,,1.0,,198,high_absorption
+629187,Kanniyakumari,Tamilnadu,2,,2.3354968324845693,,0.6741998624632423,,199,high_absorption
+629188,Kanniyakumari,Tamilnadu,2,,2.335496832484569,,0.6741998624632421,,200,high_absorption
+629189,Kanniyakumari,Tamilnadu,1,,3.4641016151377544,,1.0,,201,moderate_absorption
+629191,Kanniyakumari,Tamilnadu,2,,2.335496832484569,,0.6741998624632421,,202,moderate_absorption
+629195,Kanniyakumari,Tamilnadu,1,,3.4641016151377544,,1.0,,203,moderate_absorption
+629303,Kanniyakumari,Tamilnadu,1,,3.4641016151377544,,1.0,,204,moderate_absorption
+629807,Kanniyakumari,Tamilnadu,1,,3.4641016151377544,,1.0,,205,moderate_absorption
+629808,Kanniyakumari,Tamilnadu,3,,1.9540168418367891,,0.5640760748177663,,206,moderate_absorption
+629854,Kanniyakumari,Tamilnadu,2,,2.3354968324845693,,0.6741998624632423,,207,moderate_absorption
+629855,Kanniyakumari,Tamilnadu,2,,2.486326242032244,,0.7177405625652734,,208,moderate_absorption
+638010,Namakkal,Tamilnadu,2,,1.1841886678940083,,0.34184582308995504,,209,moderate_absorption
+711321,Howrah,Westbengal,1,,3.4641016151377544,,1.0,,210,moderate_absorption
+713310,Barddhaman,Westbengal,2,,2.335496832484569,,0.6741998624632421,,211,moderate_absorption
+713375,Barddhaman,Westbengal,1,,3.4641016151377544,,1.0,,212,moderate_absorption
+713419,Barddhaman,Westbengal,1,,3.4641016151377544,,1.0,,213,moderate_absorption
+721138,Purba Medinipur,Westbengal,1,,1.8090680674665818,,0.5222329678670936,,214,moderate_absorption
+721460,Purba Medinipur,Westbengal,3,,1.954016841836789,,0.5640760748177662,,215,moderate_absorption
+723158,Purulia,Westbengal,1,,1.1885820429096483,,0.3431140812139204,,216,moderate_absorption
+731217,Birbhum,Westbengal,1,,3.4641016151377544,,1.0,,217,moderate_absorption
+731246,Birbhum,Westbengal,2,,2.486326242032244,,0.7177405625652734,,218,moderate_absorption
+731253,Birbhum,Westbengal,1,,1.6418640338453305,,0.47396532095668326,,219,moderate_absorption
+731304,Birbhum,Westbengal,3,,1.8409483721959474,,0.5314360191257669,,220,moderate_absorption
+733139,Dakshin Dinajpur,Westbengal,1,,1.6126686046362806,,0.4655373265002074,,221,moderate_absorption
+733246,Dakshin Dinajpur,Westbengal,2,,2.3354968324845693,,0.6741998624632423,,222,moderate_absorption
+735232,Jalpaiguri,Westbengal,1,,1.210497388201391,,0.349440496465706,,223,moderate_absorption
+735237,Jalpaiguri,Westbengal,1,,1.1128713497921294,,0.3212582866879541,,224,moderate_absorption
+741225,Nadia,Westbengal,1,,1.5745916432444336,,0.4545454545454545,,225,moderate_absorption
+742000,Murshidabad,Westbengal,2,,2.3354968324845693,,0.6741998624632423,,226,moderate_absorption
+742286,Murshidabad,Westbengal,1,,3.4641016151377544,,1.0,,227,moderate_absorption
+743124,North 24 Parganas,Westbengal,2,,2.3354968324845693,,0.6741998624632423,,228,moderate_absorption
+743389,South 24 Parganas,Westbengal,1,,1.4116399231841217,,0.40750534482458767,,229,moderate_absorption
+743413,North Twenty Four Parganas,Westbengal,3,,1.954016841836789,,0.5640760748177662,,230,moderate_absorption
+743414,North Twenty Four Parganas,Westbengal,1,,3.4641016151377544,,1.0,,231,moderate_absorption
+743440,North Twenty Four Parganas,Westbengal,1,,3.4641016151377544,,1.0,,232,moderate_absorption
+743703,North Twenty Four Parganas,Westbengal,1,,3.4641016151377544,,1.0,,233,moderate_absorption
+743706,North Twenty Four Parganas,Westbengal,2,,2.486326242032244,,0.7177405625652734,,234,moderate_absorption
+751032,Khorda,Odisha,1,,3.4641016151377544,,1.0,,235,moderate_absorption
+752028,Khordha,Odisha,1,,1.1460992972940367,,0.3308503689053765,,236,moderate_absorption
+752112,Puri,Odisha,1,,1.348399724926484,,0.3892494720807615,,237,moderate_absorption
+753005,Cuttack,Odisha,1,,3.4641016151377544,,1.0,,238,moderate_absorption
+754118,Cuttack,Odisha,1,,1.477097891751993,,0.42640143271122094,,239,moderate_absorption
+754155,Jagatsinghpur,Odisha,1,,1.707779862678209,,0.4929935817169431,,240,moderate_absorption
+754282,Cuttack,Odisha,3,,2.2205650386577487,,0.6410219114110615,,241,moderate_absorption
+754286,Cuttack,Odisha,1,,3.4641016151377544,,1.0,,242,moderate_absorption
+754297,Cuttack,Odisha,2,,1.6096301099659795,,0.46466018864229264,,243,moderate_absorption
+754311,Kendrapara,Odisha,2,,2.3639217752613413,,0.6824054366451767,,244,moderate_absorption
+755030,Jajapur,Odisha,1,,3.4641016151377544,,1.0,,245,moderate_absorption
+755032,Jajapur,Odisha,1,,1.290376600196597,,0.3724996387397497,,246,moderate_absorption
+756088,Baleswar,Odisha,1,,3.4641016151377544,,1.0,,247,moderate_absorption
+758084,Kendujhar,Odisha,1,,3.4641016151377544,,1.0,,248,moderate_absorption
+758085,Kendujhar,Odisha,2,,2.486326242032244,,0.7177405625652734,,249,moderate_absorption
+759029,Angul,Odisha,2,,2.486326242032244,,0.7177405625652734,,250,moderate_absorption
+759111,Angul,Odisha,1,,1.4493709612520913,,0.4183973573172608,,251,moderate_absorption
+759135,Angul,Odisha,1,,1.6754917866921126,,0.48367281703584913,,252,moderate_absorption
+760024,Ganjam,Odisha,1,,3.4641016151377544,,1.0,,253,moderate_absorption
+761025,Ganjam,Odisha,2,,1.4354811251305468,,0.4143877070053741,,254,moderate_absorption
+761128,Ganjam,Odisha,1,,3.4641016151377544,,1.0,,255,moderate_absorption
+764088,Nabarangapur,Odisha,1,,1.6205747826813257,,0.46781964351149136,,256,moderate_absorption
+768118,Sambalpur,Odisha,1,,1.4770978917519928,,0.4264014327112209,,257,moderate_absorption
+782013,Nagaon,_Assam,1,,3.4641016151377544,,1.0,,258,moderate_absorption
+784026,Udalguri,_Assam,1,,1.1263770797713304,,0.3251570551075011,,259,moderate_absorption
+784185,Sonitpur,_Assam,2,,1.2358287613066492,,0.35675303400633784,,260,moderate_absorption
+785102,Majuli,_Assam,1,,1.2301746815700205,,0.35512084177735675,,261,moderate_absorption
+788820,North Cachar Hills,_Assam,1,,1.2576937184561312,,0.3630649034543744,,262,moderate_absorption
+791103,East Siang,_Arunachalpradesh,3,,2.3527332053068695,,0.6791755747076461,,263,moderate_absorption
+796082,Kolasib,Mizoram,2,,2.662876093795784,,0.7687061147858075,,264,moderate_absorption
+796421,Mammit,Mizoram,1,,1.0841007600054327,,0.31295293280890724,,265,moderate_absorption
+798617,Mokokchung,Nagaland,1,,1.314684396244359,,0.3795166950355407,,266,moderate_absorption
+800028,Patna,_Bihar,3,,1.8090680674665818,,0.5222329678670936,,267,moderate_absorption
+800029,Patna,_Bihar,1,,1.641864033845331,,0.47396532095668337,,268,moderate_absorption
+801501,Patna,_Bihar,2,,2.486326242032244,,0.7177405625652734,,269,moderate_absorption
+803215,Patna,_Bihar,1,,1.8090680674665818,,0.5222329678670936,,270,moderate_absorption
+803218,Patna,_Bihar,3,,1.9031075066370216,,0.549379815626841,,271,moderate_absorption
+805132,Kodarma,Jharkhand,1,,3.4641016151377544,,1.0,,272,moderate_absorption
+812007,Bhagalpur,_Bihar,1,,1.2124355652982142,,0.35000000000000003,,273,moderate_absorption
+813115,Banka,_Bihar,1,,1.1249242398733104,,0.32473765635439544,,274,moderate_absorption
+813124,Banka,_Bihar,1,,1.8090680674665818,,0.5222329678670936,,275,moderate_absorption
+814115,Deoghar,Jharkhand,2,,2.3354968324845693,,0.6741998624632423,,276,moderate_absorption
+814122,Deoghar,Jharkhand,2,,2.335496832484569,,0.6741998624632421,,277,moderate_absorption
+824213,Aurangabad,_Bihar,1,,3.4641016151377544,,1.0,,278,moderate_absorption
+825420,Chatra *,Jharkhand,2,,2.3354968324845693,,0.6741998624632423,,279,moderate_absorption
+826124,Dhanbad,Jharkhand,2,,2.335496832484569,,0.6741998624632421,,280,moderate_absorption
+828107,Bokaro,Jharkhand,2,,1.8090680674665816,,0.5222329678670935,,281,moderate_absorption
+829130,Ramgarh,Jharkhand,3,,1.9031075066370218,,0.549379815626841,,282,moderate_absorption
+829201,Garhwa,Jharkhand,1,,1.2870763988845637,,0.37154695268180854,,283,moderate_absorption
+831010,Purbi Singhbhum,Jharkhand,1,,3.4641016151377544,,1.0,,284,moderate_absorption
+832113,Pashchimi Singhbhum,Jharkhand,2,,2.3354968324845693,,0.6741998624632423,,285,moderate_absorption
+833202,West Singhbhum,Jharkhand,2,,2.486326242032244,,0.7177405625652734,,286,moderate_absorption
+834012,Ranchi,Jharkhand,2,,1.4221601330465734,,0.4105422678225966,,287,moderate_absorption
+835238,Ranchi,Jharkhand,1,,3.4641016151377544,,1.0,,288,moderate_absorption
+835240,Ranchi,Jharkhand,2,,2.486326242032244,,0.7177405625652734,,289,moderate_absorption
+835244,Ranchi,Jharkhand,1,,3.4641016151377544,,1.0,,290,moderate_absorption
+843130,Muzaffarpur,_Bihar,1,,1.296849328880646,,0.3743681545638132,,291,moderate_absorption
+843152,Muzaffarpur,_Bihar,1,,1.8463723646899912,,0.5330017908890262,,292,moderate_absorption
+843162,Muzaffarpur,_Bihar,1,,1.472329300375872,,0.4250248589538915,,293,moderate_absorption
+845439,West Champaran,_Bihar,2,,1.7056057308448835,,0.49236596391733095,,294,moderate_absorption
+846008,Madhubani,_Bihar,1,,3.4641016151377544,,1.0,,295,moderate_absorption
+847123,Darbhanga,_Bihar,1,,1.658255761726693,,0.4786972052090771,,296,moderate_absorption
+848116,Samastipur,_Bihar,1,,1.2475430398842504,,0.360134654951408,,297,moderate_absorption
+852134,Supaul,_Bihar,2,,2.486326242032244,,0.7177405625652734,,298,moderate_absorption
+853207,Bhagalpur,_Bihar,1,,3.4641016151377544,,1.0,,299,moderate_absorption
